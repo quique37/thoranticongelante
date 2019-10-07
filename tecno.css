@@ -1,0 +1,176 @@
+h1 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: white;
+}
+
+div {
+    text-align: left;
+}
+
+p {
+    color: #8f8f8f;
+    line-height: 1.5;
+    padding-top: 5%;
+    font-size: 1.5rem;
+}
+
+/* Sección de navbar e introducción */
+
+#titulo {
+    background-color: rgb(36,97,153);
+    color: white;
+    position: relative;
+    padding: 5% 10%;
+}
+
+.intro-texto {
+    padding-top: 8%;
+    color: orange;
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+.navbar {
+    padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0px 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+.presentacion {
+    color: white;
+}
+
+.logo {
+    width: 35%;
+}
+
+.productos-titulo {
+    width: 80%;
+}
+
+/* Sección de productos antrak y thor  */
+
+#productos {
+    padding: 5% 5%;
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    /* background-color: lightsteelblue; */
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.thor-intro {
+    background-color: rgba(0,98,55);
+    height: 70px;
+    color: white;
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.antrak-intro {
+    background-color: rgba(61,67,146);
+    height: 70px;
+    color: white;
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.product-logo {
+    width: 90%;
+    opacity: 0.15;
+}
+
+/* Sección de Datos Físicos y Rangos */
+
+#datos-productos {
+    background-color: lightsteelblue; 
+    padding: 5% 5%;
+    text-align: center;
+    color: white;
+}
+
+.datos-texto {
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    padding-bottom: 3%;
+    padding-top: 7%;
+}
+
+td {
+    padding: 4% 4%;
+    font-size: 1.2rem;
+    font-family: 'Ubuntu';
+    font-weight: 900;
+}
+
+table {
+    border: 3px solid;
+}
+
+.propiedades {
+    padding-top: 15%;
+}
+
+/* Contacto  */
+
+#contacto {
+    text-align: center;
+    padding: 5%;
+}
+
+.copyright {
+    text-align: center;
+    color: #8f8f8f;
+}
+
+.footer-logo {
+    width: 15%;
+}
